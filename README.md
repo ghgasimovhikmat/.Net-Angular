@@ -23,9 +23,6 @@ Making reusable form components using Angular Reactive forms
 
 Paging, Sorting, Searching and Filtering
 
-
-Many more things as well
-
 Tools you need for this course
 
-In this course all the lessons are demonstrated using Visual Studio Code, a free cross platform code editor.   You can of course use any IDE you like and any Operating system you like... as long as it's Windows, Linux or Mac
+using Visual Studio Code, MSSSQLSERVER a free cross platform code editor.   
